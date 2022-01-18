@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @suriyass
 - 👀 I’m interested in Front end development, backend development
-- 🌱 I’m currently learning Digital Art
+- 🌱 I Love colors, so playing with HTML,CSS, Js and Jquery makes me happy.
 - 📫 How to reach me : ss.suriyastark@gmail.com
 
 <!---
