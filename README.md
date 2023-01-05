@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @suriyass
-- 👀 I’m interested in Front end development, backend development
-- 🌱 Love web Development.
+- 👀 I’m interested in web development (Front end, backend,Database).
+- 🌱Coding is my mental therapy.
 - 📫 How to reach me : ss.suriyastark@gmail.com
 
 <!---
